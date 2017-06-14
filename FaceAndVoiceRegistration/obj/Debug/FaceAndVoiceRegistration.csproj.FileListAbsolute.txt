@@ -1,0 +1,59 @@
+c:\users\mk185299\documents\visual studio 2017\Projects\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\bin\Debug\FaceAndVoiceRegistration.exe.config
+c:\users\mk185299\documents\visual studio 2017\Projects\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\bin\Debug\FaceAndVoiceRegistration.exe
+c:\users\mk185299\documents\visual studio 2017\Projects\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\bin\Debug\FaceAndVoiceRegistration.pdb
+c:\users\mk185299\documents\visual studio 2017\Projects\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\bin\Debug\NAudio.dll
+c:\users\mk185299\documents\visual studio 2017\Projects\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\bin\Debug\WebCam_Capture.dll
+c:\users\mk185299\documents\visual studio 2017\Projects\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\bin\Debug\NAudio.xml
+c:\users\mk185299\documents\visual studio 2017\Projects\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\obj\Debug\FaceAndVoiceRegistration.csprojResolveAssemblyReference.cache
+c:\users\mk185299\documents\visual studio 2017\Projects\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\obj\Debug\MainWindow.g.cs
+c:\users\mk185299\documents\visual studio 2017\Projects\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\obj\Debug\App.g.cs
+c:\users\mk185299\documents\visual studio 2017\Projects\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\obj\Debug\FaceAndVoiceRegistration_MarkupCompile.cache
+c:\users\mk185299\documents\visual studio 2017\Projects\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\obj\Debug\FaceAndVoiceRegistration_MarkupCompile.lref
+c:\users\mk185299\documents\visual studio 2017\Projects\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\obj\Debug\MainWindow.baml
+c:\users\mk185299\documents\visual studio 2017\Projects\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\obj\Debug\FaceAndVoiceRegistration.g.resources
+c:\users\mk185299\documents\visual studio 2017\Projects\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\obj\Debug\FaceAndVoiceRegistration.Properties.Resources.resources
+c:\users\mk185299\documents\visual studio 2017\Projects\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\obj\Debug\FaceAndVoiceRegistration.csproj.GenerateResource.Cache
+c:\users\mk185299\documents\visual studio 2017\Projects\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\obj\Debug\FaceAndVoiceRegistration.exe
+c:\users\mk185299\documents\visual studio 2017\Projects\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\obj\Debug\FaceAndVoiceRegistration.pdb
+c:\users\mk185299\documents\visual studio 2017\Projects\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\obj\Debug\RegisterForm.g.cs
+c:\users\mk185299\documents\visual studio 2017\Projects\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\obj\Debug\RegisterForm.baml
+C:\Users\MK185299\Documents\Visual Studio 2017\Projects\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\bin\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Users\MK185299\Documents\Visual Studio 2017\Projects\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\MK185299\Documents\Visual Studio 2017\Projects\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MK185299\Documents\Visual Studio 2017\Projects\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\MK185299\Documents\Visual Studio 2017\Projects\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\MK185299\Documents\Visual Studio 2017\Projects\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MK185299\Documents\Visual Studio 2017\Projects\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\MK185299\Documents\Visual Studio 2017\Projects\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\MK185299\Documents\Visual Studio 2017\Projects\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\obj\Debug\FaceAndVoiceRegistration.csproj.App.config
+C:\Users\MK185299\Documents\Visual Studio 2017\Projects\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\bin\Debug\Microsoft.ProjectOxford.SpeakerRecognition.dll
+C:\Users\MK185299\Documents\Visual Studio 2017\Projects\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\obj\Debug\FaceAndVoiceRegistration_Content.g.cs
+D:\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\bin\Debug\FaceAndVoiceRegistration.exe.config
+D:\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\obj\Debug\FaceAndVoiceRegistration.exe
+D:\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\obj\Debug\FaceAndVoiceRegistration.pdb
+D:\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\bin\Debug\FaceAndVoiceRegistration.exe
+D:\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\bin\Debug\FaceAndVoiceRegistration.pdb
+D:\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\bin\Debug\Microsoft.ProjectOxford.Common.dll
+D:\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\bin\Debug\Microsoft.ProjectOxford.Face.dll
+D:\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\bin\Debug\Microsoft.ProjectOxford.SpeakerRecognition.dll
+D:\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\bin\Debug\NAudio.dll
+D:\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\bin\Debug\Newtonsoft.Json.dll
+D:\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\bin\Debug\System.Net.Http.Extensions.dll
+D:\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\bin\Debug\System.Net.Http.Primitives.dll
+D:\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\bin\Debug\NAudio.xml
+D:\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\bin\Debug\Newtonsoft.Json.xml
+D:\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\bin\Debug\System.Net.Http.Extensions.xml
+D:\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\bin\Debug\System.Net.Http.Primitives.xml
+D:\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\obj\Debug\FaceAndVoiceRegistration.csproj.App.config
+D:\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\obj\Debug\FaceAndVoiceRegistration.csprojResolveAssemblyReference.cache
+D:\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\obj\Debug\MainWindow.g.cs
+D:\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\obj\Debug\RegisterForm.g.cs
+D:\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\obj\Debug\App.g.cs
+D:\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\obj\Debug\FaceAndVoiceRegistration_Content.g.cs
+D:\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\obj\Debug\FaceAndVoiceRegistration_MarkupCompile.cache
+D:\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\obj\Debug\FaceAndVoiceRegistration_MarkupCompile.lref
+D:\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\obj\Debug\MainWindow.baml
+D:\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\obj\Debug\RegisterForm.baml
+D:\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\obj\Debug\FaceAndVoiceRegistration.g.resources
+D:\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\obj\Debug\FaceAndVoiceRegistration.Properties.Resources.resources
+D:\FaceAndVoiceRegistrationSln\FaceAndVoiceRegistration\obj\Debug\FaceAndVoiceRegistration.csproj.GenerateResource.Cache

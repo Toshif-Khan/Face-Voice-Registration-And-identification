@@ -14,7 +14,7 @@ If user is not registered yet then we will redirect user to registeration for hi
 Now after authentication we will move to transaction process which is fully manage by only speaking. Means to do transavtion we will guide
 user by speak and user also speak to do the transaction. 
 
-Let me explain, If user want to get the option details or transaction details then he/she will say hi, then we will provide a speak guidance to user. After that to withdraw user should say withdraw, to deposit should say deposit, to balance enquiry say like check balance, to cancel transaction say like done. After this, let assume I want to withdraw money then I need to say like withdraw and how much amount I want to withdraw for example if I want to withdraw 500 rupees then I will say like "Withdraw 500".
+Let me explain, If user want to get the option details or transaction details then he/she will say "Hi", then we will provide a speak guidance to user. After that to withdraw user should say "Withdraw", to deposit should say "Deposit", to balance enquiry say like "Check Balance", to cancel transaction say like "Done". After this, let assume I want to withdraw money then I need to say like withdraw and how much amount I want to withdraw for example if I want to withdraw 500 rupees then I will say like "Withdraw 500".
 
 This is all.
 

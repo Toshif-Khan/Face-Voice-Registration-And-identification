@@ -61,8 +61,8 @@ namespace FaceAndVoiceRegistration
         private SqlCommand cmd = new SqlCommand();
         private SqlDataReader dr;
         private string voiceIdentifiedUserName;
-        private readonly string speakerAPISubscriptionKey = "d1947205f7df4a20aad03f1c55c63340";
-        private readonly string faceAPISubscriptionKey = "404062c4115f475cbf6bbd574ed35001";
+        private readonly string speakerAPISubscriptionKey = "Paste your speaker recognition API subscription key here";
+        private readonly string faceAPISubscriptionKey = "Paste your face API subscription key here";
 
 
         public MainWindow()
